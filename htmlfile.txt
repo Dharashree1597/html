@@ -1,0 +1,205 @@
+<html>
+<body bgcolor="silver">
+<ol type="I">
+<li> thums UP
+<li> pepsi
+<li> coke
+<li> sprite
+<li> fanta
+</ol><br>
+<ul>
+<li> thums UP
+<li> pepsi
+<li> coke
+<li> sprite
+<li> fanta
+</ul>
+</body>
+</html>
+
+
+
+
+
+<html>
+<body>
+< a href="listing.html">click here </a><br>
+<img src="dp.jpg" height="100" width="150"/>
+<font size="5" color="red">this is a special text</font>
+</body>
+<html>
+
+
+
+
+<html>
+<body>
+<table border="2" size="100" cellpadding="5" cellspacing="5">
+<caption>sample table</caption>
+<tr>
+<th>EMPLOYEE CODE</th>
+<th>EMPLOYEE NAME</th>
+<th>EMPLOYEE SAL</th>
+</tr>
+<TR><TD>1234</TD> <TD>DELOITTE</TD> <TD>56000</TD></TR>
+<TR><TD>1234</TD> <TD>DELOITTE</TD> <TD>56000</TD></TR>
+<TR><TD>1234</TD> <TD>DELOITTE</TD> <TD>56000</TD></TR>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+<html>
+<body>
+<table border="2">
+<tr>
+<th rowspan="2">Student Name</th>
+<th colspan="3">Subject Marks</th>
+<th rowspan="2">Mob</th>
+</tr>
+<tr><th>Sub-1</th><th>Sub-2</th><th>Sub-3</th></tr>
+<tr><td>Deloitte<td>55<td>76<td>99<td>9845</tr>
+<tr><td>Deloitte<td>55<td>76<td>99<td>5678</tr>
+<tr><td>Deloitte<td>55<td>76<td>99<td>2345</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<html>
+<body>
+<form>
+Enter name <input type="text" name="empname" value="your name" readonly<br>
+Enter password <input type="password" name="pwd"><br>
+Experience <textarea rows="2" cols="40" name"exp"></textarea><br>
+Technologies <input type="checkbox" name="tech" value="oracle">Oracle
+             <input type="checkbox" name="tech" value="spring">Spring<br>
+Marital status <input type="radio" name="status" value="single">single
+           <input type="radio" name="status" value="married">Married<br>
+		   select month<select name="month">
+           <option value="jan">January</option>
+		   <option value="feb">February</option>
+		   <option value="mar">March</option>
+		   </select><br>
+		   <input type="button" value="hello">
+		   <input type="submit"
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<style>
+body
+{
+background-color:silver;
+}
+p
+{
+text-align:center; color:red;
+}
+#h1
+{
+color:blue;
+}
+.h2
+{
+color:sienna;
+}
+</style>
+</head>
+<body>
+<p style="background-color:yellow;">this is para one</p><br>
+<h1 id="h1">this is heading H1</h1>
+<h2 class="h2"> this is head H2</h2>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<body>
+<table border="2" bordercolor="red" bgcolor="silver">
+<tr>
+<th rowspan="2"style="color:blue">Student Name</th>
+<th colspan="3"style="color:blue">Subject Marks</th>
+<th rowspan="2" style="color:yellow">Mob</th>
+</tr>
+<tr><th style="color:green">Sub-1</th><th style="color:green">Sub-2</th><th style="color:green">Sub-3</th></tr>
+<tr style="color:brown"><td>Deloitte<td>55<td>76<td>99<td>9845</tr>
+<tr style="color:brown"><td>Deloitte<td>55<td>76<td>99<td>5678</tr>
+<tr style="color:brown"><td>Deloitte<td>55<td>76<td>99<td>2345</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+h1{
+color: sienna;
+}
+h4
+{
+color: blue;
+}
+p{
+text-color: red;
+}
+body{
+background-color:pink;
+}
+
+
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="new10.css">
+</head>
+<body>
+<h1> Heading 1 </h1>
+<h2> Heading 2 </h2>
+<h4> Heading 4 </h4>
+<p>A sample paragraph</p> <Br>
+This is normal text....
+</html>
+
+				
